@@ -1,4 +1,7 @@
-INFORMATION GRADING SYSTEM FOR UNIVERSITY OF MACEDONIA.
-With this grading system, students can be registered to see their grades and secretary to submit their final grades.
-If you want to check an operation based on a teacher's name, go to Main2.java class to take the default teachers names.
-If you want to login as secretary, just register as "secretary" with filling the id field with filling the password field. In this way, our system understand that we login as secretary.
+INFORMATION GRADING SYSTEM FOR THE UNIVERSITY OF MACEDONIA
+
+This grading system allows students to register and view their grades, and secretaries to submit final grades.
+To check operations related to a teacher, go to the Main2.java class to find the default teacher names.
+To log in as a secretary, simply register with the username "secretary" and fill in both the ID and password fields.
+This way, the system understands that you are logging in as a secretary.
+
